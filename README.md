@@ -1,5 +1,4 @@
-# movieManagementSysteme
-# MovieManagementSystem
+# MovieManagementSysteme
 Movie Management System 🎥
 Description
 Le Movie Management System est une application Java permettant de gérer une collection de films. Les fonctionnalités incluent :
